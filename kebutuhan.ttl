@@ -1,0 +1,55 @@
+@prefix su: <http://www.w3.org/2006/vcard/ns#> .
+@prefix pr: <http://www.snee.com/hr/> .
+
+su:biskuit pr:merek "Oreo".
+su:biskuit pr:harga "8500".
+su:biskuit pr:produsen "Mondelez".
+su:biskuit pr:negara "Amerika".
+su:biskuit pr:rilis "1912-04-06".
+su:biskuit pr:gambar "https://cdn1-production-images-kly.akamaized.net/Eo8_hI27nYgE-xDWNrte3vZ-u5A=/640x480/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1170319/original/065589700_1457942078-a99626_kids-911_9-oreo.jpg".
+
+su:mie pr:merek "Indomie Hype Abis".
+su:mie pr:harga "3000".
+su:mie pr:produsen "indofood".
+su:mie pr:negara "Indonesia".
+su:mie pr:rilis "1967-11-06".
+su:mie pr:gambar "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1576203433/ze7krdk64v8ratda05xk.jpg".
+
+su:minyakmakan pr:merek "Bimoli".
+su:minyakmakan pr:harga "37000".
+su:minyakmakan pr:produsen "indofood".
+su:minyakmakan pr:negara "Indonesia".
+su:minyakmakan pr:rilis "1989-02-30".
+su:minyakmakan pr:gambar "https://cf.shopee.co.id/file/8d49d0d96c823457542930d29040b6da".
+
+su:minumanringan1 pr:merek "Coca-Cola".
+su:minumanringan1 pr:harga "5000".
+su:minumanringan1 pr:tipe "tiny".
+su:minumanringan1 pr:produsen "Coca-Cola Company".
+su:minumanringan1 pr:negara "Amerika".
+su:minumanringan1 pr:rilis "1886-04-17".
+su:minumanringan1 pr:gambar "https://e2k9ube.cloudimg.io/s/cdn/x/https://edienet.s3.amazonaws.com/news/images/full_40181.jpg?v=22/04/2020%2009:25:00".
+
+su:minumanringan2 pr:merek "Sprite".
+su:minumanringan2 pr:harga "5000".
+su:minumanringan2 pr:tipe "kecil".
+su:minumanringan2 pr:produsen "Coca-Cola Company".
+su:minumanringan2 pr:negara "Amerika".
+su:minumanringan2 pr:rilis "1996-04-17".
+su:minumanringan2 pr:gambar "https://i.insider.com/5c7819fbeb3ce82ac538ea33?width=700".
+
+su:minumanringan3 pr:merek "Fanta".
+su:minumanringan3 pr:harga "5000".
+su:minumanringan3 pr:tipe "mini".
+su:minumanringan3 pr:produsen "Coca-Cola Company".
+su:minumanringan3 pr:negara "Amerika".
+su:minumanringan3 pr:rilis "2001-04-17".
+su:minumanringan3 pr:gambar "https://images.heb.com/is/image/HEBGrocery/002199639".
+
+su:snack pr:merek "Doritos".
+su:snack pr:harga "7400".
+su:snack pr:tipe "Keripik Tortilla".
+su:snack pr:produsen "Frito-Lay".
+su:snack pr:negara "Amerika".
+su:snack pr:rilis "2004-03-05".
+su:snack pr:gambar "https://images-na.ssl-images-amazon.com/images/I/81HqfpMuDQL._SL1500_.jpg".
